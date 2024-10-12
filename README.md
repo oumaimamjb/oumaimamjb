@@ -1,5 +1,4 @@
-<h1 align="center">Hi there👋 </h1>
-<h3 align="center">I’m Oumaima, a passionate Data Engineering student 👩‍💻 at the National School of Applied Science Al Hoceima in Morocco 🇲🇦. Eager to transform data into actionable insights, I thrive on tackling complex problems and turning them into efficient solutions. My academic journey fuels my desire for practical experience, and I am dedicated to honing my skills in real-world environments. Each day is an opportunity for me to learn something new and expand my expertise in the ever-evolving field of data engineering.</h3>
+<h3 align="center">I’m Oumaima, a passionate Data Engineering student 👩‍💻 at the National School of Applied Science Al Hoceima in Morocco 🇲🇦. Eager to transform data into actionable insights, I thrive on tackling complex problems and turning them into efficient solutions. My academic journey fuels my desire for practical experience, and I am actively seeking a PFE internship to apply my skills in real-world environments. Each day is an opportunity for me to learn something new and expand my expertise in the ever-evolving field of data engineering.</h3>
 
 - 🌱 I’m currently learning **AWS and GCP.**
 
@@ -11,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/oumaima-moujib-87b459244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oumaima-moujib-87b459244/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/oumaima-moujib-87b459244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oumaima-moujib-87b459244/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
